@@ -3,7 +3,7 @@ body {
 }
 
 .partesuperior {
-    background-color: black;
+    background-color: #252523;
     color: white;
     display: flex;
     justify-content: center;
@@ -20,7 +20,7 @@ body {
 }
 
 #home {
-    background-color: black;
+    background-color: #252523;
     color: white;
     margin-right: 15px;
     width: 100px;
@@ -30,7 +30,7 @@ body {
 }
 
 #sobre {
-    background-color: black;
+    background-color: #252523;
     color: white;
     margin-right: 15px;
     width: 100px;
@@ -40,7 +40,7 @@ body {
 }
 
 #catalogo {
-    background-color: black;
+    background-color: #252523;
     color: white;
     margin-right: 15px;
     width: 100px;
@@ -50,7 +50,7 @@ body {
 }
 
 #contato {
-    background-color: black;
+    background-color: #252523;
     color: white;
     margin-right: 15px;
     width: 100px;
@@ -221,7 +221,7 @@ body {
 
 
 footer {
-    background-color: black;
+    background-color: #252523;
     color: white;
     bottom: 0;
     left: 0;
